@@ -42,6 +42,10 @@ header nav ul li {
     margin-left: 25px;
 }
 
+figcaption {
+    display: none;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
