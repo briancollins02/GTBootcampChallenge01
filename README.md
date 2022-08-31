@@ -1,4 +1,4 @@
-# <Challenge 01 - Accessibility>
+# Challenge 01 - Accessibility
 
 ## Description
 
